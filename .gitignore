@@ -1,0 +1,10 @@
+*.pyc
+*.egg-info
+_build
+_readthedocs_build
+autoapi
+_build_rtd
+.idea/
+.tox
+dist
+.vscode
